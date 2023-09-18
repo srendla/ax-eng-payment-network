@@ -1,1 +1,9 @@
 #this pr1 txt will contain info regarding parallel run1
+
+Details added regarding new port request
+amazon
+walmart
+macys
+jc penny
+exon
+target
