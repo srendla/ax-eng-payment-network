@@ -1,1 +1,8 @@
 this pr2 txt will contain info regarding parallel run 2
+
+Adding new ports for the Issuer profiles
+credtio
+visa
+mastercard
+g-exchange
+celtic
